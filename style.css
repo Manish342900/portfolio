@@ -430,8 +430,11 @@ article .icon {
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   background: (250, 250, 250);
-  margin: 2rem auto;
+  margin: auto auto;
   padding: 0.5rem;
+  
+  
+
 }
 
 .contact-info-container {
@@ -441,6 +444,7 @@ article .icon {
   gap: 0.5rem;
   margin: 1rem;
   width: fit-content;
+
 }
 
 .contact-info-container p {
