@@ -125,13 +125,4 @@
     height: fit-content;
   }
 }
-@media screen and (max-width:400px) {
-  .article-container1{
-    display: grid;
-    grid-template-columns: 1fr;
-  }
-  .details-container1{
-    flex-wrap: wrap;
-    width: 90vh;
-  }
-}
+
